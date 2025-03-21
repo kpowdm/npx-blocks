@@ -1,0 +1,17 @@
+{
+  "name": "npx-blocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "npx-blocks": "./bin/cli.js"
+  },
+  "private": true,
+  "dependencies": {
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0"
+  }
+}
